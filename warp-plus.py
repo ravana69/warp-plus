@@ -42,4 +42,4 @@ while True:
         print(c,"GB added successfully !")
         c = c + 1
     else:
-        time.sleep(o)
+        time.sleep(0)
