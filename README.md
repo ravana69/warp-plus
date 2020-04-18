@@ -17,7 +17,7 @@ pkg install python git && pip install requests
 Now clone the git on your device:
 
 ```shell
-git clone https://github.com/samimifar/warp-plus.git
+git clone https://github.com/ravana69/warp-plus.git
 ```
 Finally, Run the script:
 
